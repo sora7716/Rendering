@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "レンダリングパイプライン", "レンダリングパイプライン.vcxproj", "{86A73F1E-724C-438B-B65A-277A46FDB18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A73F1E-724C-438B-B65A-277A46FDB18D}.Debug|x64.ActiveCfg = Debug|x64
+		{86A73F1E-724C-438B-B65A-277A46FDB18D}.Debug|x64.Build.0 = Debug|x64
+		{86A73F1E-724C-438B-B65A-277A46FDB18D}.Release|x64.ActiveCfg = Release|x64
+		{86A73F1E-724C-438B-B65A-277A46FDB18D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F76F5A-76F9-47AD-BE0C-14B857ADF7DB}
+	EndGlobalSection
+EndGlobal
